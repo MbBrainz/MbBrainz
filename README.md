@@ -10,3 +10,7 @@
 MbBrainz/MbBrainz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+Author of :
+- [pegasus cosmwasm smart-contract](https://github.com/pegasuszone/pegasus)
+- [cw-tokenfactory-issuer cosmwasm smart-contract](https://github.com/osmosis-labs/cw-tokenfactory-issuer)
