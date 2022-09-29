@@ -5,6 +5,7 @@
 - 📚 Currently learning: 🦀 Rust, 🐹 Golang 
 - 🎓 Education: BSc Applied Physics, Masters Computational Science (currently enrolled, expected July 2023)
 - 📫 telegram and twitter: @MbBrainz
+- 💼 available as a contractor
 
 <!---
 MbBrainz/MbBrainz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
