@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MbBrainz
+👋 **Hi, I’m @MbBrainz**
 - 👀 I’m interested in Performance, Optimisation, Machine Learning, Agent Based Modeling, Blockchain
 - 💞️ I’m looking to collaborate
 - 🔠 Most familiar language: 🐍 python
