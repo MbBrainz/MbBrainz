@@ -17,5 +17,5 @@ Author of:
 - [cw-tokenfactory-issuer cosmwasm smart-contract](https://github.com/osmosis-labs/cw-tokenfactory-issuer)
 
 Contributor to:
--[Interstake Yield Generator](https://github.com/Interstake/interstake-contracts)
--[4T2Finance](https://4t2.finance/)
+- [Interstake Yield Generator](https://github.com/Interstake/interstake-contracts)
+- [4T2Finance](https://4t2.finance/)
