@@ -3,7 +3,7 @@
 - 💞️ I’m looking to collaborate
 - 🔠 Most familiar language: 🐍 python
 - 📚 Currently learning: 🦀 Rust, 🐹 Golang 
-- 🎓 Education: BSc Applied Physics, Masters Computational Science (currently enrolled, expected July 2023)
+- 🎓 Education: BSc Applied Physics (July 2021), Masters Computational Science (June 2023)
 - 📫 telegram and twitter: @MbBrainz
 - 💼 available as a contractor/freelancer
 
