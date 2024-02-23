@@ -2,7 +2,8 @@
 - 👀 I’m interested in Performance, Optimisation, Machine Learning, Agent Based Modeling, Blockchain
 - 💞️ I’m looking to collaborate
 - 🔠 Most familiar language: 🐍 python
-- 📚 Currently learning: 🦀 Rust, 🐹 Golang 
+- 📚 Proficient in: 🦀 Rust, Typescript, React
+- 📚 Familiar with: Go, Javascript, shell
 - 🎓 Education: BSc Applied Physics (July 2021), Masters Computational Science (June 2023)
 - 📫 telegram and twitter: @MbBrainz
 - 💼 available as a contractor/freelancer
