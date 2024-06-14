@@ -1,0 +1,9 @@
+{
+	"dirs": [
+		"~/.zshrc",
+		"~/.zsh/aliases.zsh",
+		"~/.vimrc",
+		"~/.p10k.zsh"
+	]
+}
+	
