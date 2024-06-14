@@ -6,11 +6,11 @@ if [[ -r "${XDG_CACHE_HOME:-"$HOME/.cache"}/p10k-instant-prompt-$n.zsh" ]]; then
 fi
 
 # if antigen is not installed on the OSX or Linux machine, install it
-if [ ! -d "$HOME/.antigen" ]; then
-  curl -L git.io/antigen >$HOME/.antigen/antigen.zsh
+if [ ! -d "$HOME/.antigen.zsh" ]; then
+  curl -L git.io/antigen >$HOME/.antigen.zsh
 fi
 
-source $(brew --prefix)/share/antigen/antigen.zsh
+source $HOME/.antigen.zsh
 
 # Load the oh-my-zsh's library.
 antigen use oh-my-zsh
@@ -18,13 +18,13 @@ antigen use oh-my-zsh
 # load plugins
 antigen bundle git
 antigen bundle macos
-antigen bundle zoxide
 antigen bundle pip
 antigen bundle fzf
 antigen bundle nekofar/zsh-pnpm
 antigen bundle zsh-users/zsh-autosuggestions
 antigen bundle zdharma-continuum/fast-syntax-highlighting
 antigen bundle djui/alias-tips
+antigen bundle sunlei/zsh-ssh
 
 antigen theme romkatv/powerlevel10k
 
